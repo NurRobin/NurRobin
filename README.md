@@ -1,36 +1,59 @@
 <h1 align="center">Hi 👋, I'm Robin (NurRobin)</h1>
-<h3 align="center">A passionate developer and student of Mobile Informatics, with a focus on React and Next.js.</h3>
+<h3 align="center">Mobile Informatics student • Fullstack Developer • React & Next.js Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurrobin&label=Profile%20views&color=0e75b6&style=flat" alt="nurrobin" /> </p>
-
-- 🌱 I’m currently diving deep into **React, Next.js, and everything related to modern web development.**
-
-- 👨‍💻 I’m currently studying **Mobile Informatics** at **DHBW Ravensburg Campus Friedrichshafen**.
-
-- 🧑‍💼 I’m also working as a **Software Engineering Student** at **[innoSysTec GmbH](https://www.innosystec.de/)** where I use **Java, Python, Kotlin, React, and more.**
-
-- 🌐 You can check out my personal website at [https://nurrobin.de/](https://nurrobin.de/).
-
-- 📌 I’m currently working on a project called [ReTypst](https://github.com/NurRobin/ReTypst). ReTypst is a WebApp that I am currently developing in my free time. It is a WebUI for the Typst-Compiler.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/robin-alexander-gramb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurrobin" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nurrobin&label=Profile%20views&color=0e75b6&style=flat" alt="nurrobin" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🚀 About Me
+- 📚 Studying **Mobile Informatics** at **DHBW Ravensburg, Campus Friedrichshafen**
+- 🧑‍💼 Working as **Software Engineering Student** at [innoSysTec GmbH](https://www.innosystec.de/)
+- 🌱 Focused on **React, Next.js, PocketBase, and modern web stacks**
+- 🌐 Personal website → [nurrobin.de](https://nurrobin.de/)
+
+---
+
+### 🌿 Highlight Project: [THC](https://thc.nurrobin.de)
+A full-featured **Cannabis Tracking & Awareness Platform** I’ve been building since June 2025.  
+It helps users reflect on their consumption through:
+- 📊 **Dashboard** with THC-level tracking, inventory stats & session reminders  
+- 🧾 **Session logging** (strain, amount, method, mood, notes)  
+- 🌱 **Strain management** with ratings & reports  
+- 🫂 **Social features**: friends system, Twitter-like feed, comments & likes  
+- 🔐 Privacy-first: user data export & deletion (GDPR-compliant)  
+- 🚀 **Tech stack**: Next.js + PocketBase + Docker + CI/CD pipelines  
+
+> 💡 Goal: Not to promote consumption, but to enable a **conscious and data-driven approach**.
+
+---
+
+### 🛠️ Languages and Tools
 <p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="next.js" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/database/technologies/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurrobin&show_icons=true&theme=dark&locale=en&layout=compact" alt="nurrobin" /></p>
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/robin-alexander-gramb/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nurrobin&show_icons=true&theme=dark&locale=en&layout=compact" alt="nurrobin" />
+</p>
